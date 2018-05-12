@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33990'
     url: http://www.gutenberg.org/2009/agents/33990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29562#The-Clock-that-Had-no-HandsAnd-Nineteen-Other-Essays-About-Advertising
 gutenberg_issued: '2009-08-01'
 gutenberg_type: Text
 identifiers:
