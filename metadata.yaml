@@ -1,0 +1,38 @@
+_repo: The-Clock-that-Had-no-HandsAnd-Nineteen-Other-Essays-About-Advertising_29562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kaufman, Herbert
+    birthdate: 1878
+    deathdate: 1947
+    gutenberg_agent_id: '33990'
+    url: http://www.gutenberg.org/2009/agents/33990
+description: ''
+gutenberg_issued: '2009-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29562'
+  lccn: '13001403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Advertising'
+- !lcc 'HF'
+tableOfContents: The clock that had no hands -- The cannon that modernized Japan --
+  The tailor who paid too much -- The man who retreats before his defeat -- The dollar
+  that can't be spent -- The pass of Thermopylae -- The perambulating showcase --
+  How Alexander untied the knot -- If it fits you, wear this cap -- You must irrigate
+  your neighborhood -- Cato's follow-up system -- How to write retail advertising
+  copy -- The difference between amusing and convincing -- Some don'ts when you do
+  advertise -- The doctor whose patients hang on -- The horse that drew the load --
+  The cellar hole and the sewer hole -- The neighborhood of your advertising -- The
+  mistake of the big steak -- The omelette soufflé.
+title: 'The Clock that Had no Hands
+
+  And Nineteen Other Essays About Advertising'
+url: http://www.gutenberg.org/ebooks/29562
